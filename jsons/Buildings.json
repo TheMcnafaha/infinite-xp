@@ -1,7 +1,7 @@
 [
   {
     "name": "Hack Land Military Hack 1",
-    "uniqueTo": "Hack Land",
+    "uniqueTo": "Player",
     "cost": 1,
     "isWonder": true,
     "uniques": [
